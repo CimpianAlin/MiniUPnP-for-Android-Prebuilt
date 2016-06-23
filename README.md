@@ -8,4 +8,4 @@ Built with Android NDK r11c
 Warning!
 ====
 
-armeabi-b1 builded without any comile flags for compatability with arm. But it works (tested with [i2pd](https://github.com/PurpleI2P/i2pd/)).
+armeabi-b1 builded without any compile flags for compatability with arm. But it works (tested with [i2pd](https://github.com/PurpleI2P/i2pd/)).
